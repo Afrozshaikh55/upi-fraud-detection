@@ -6,8 +6,13 @@ This project uses machine learning to classify UPI transactions as legitimate or
 
 Dataset
 
-The project uses the upi_fraud_dataset.csv dataset.
+The dataset used in this project was obtained from Kaggle.
 
+**Dataset:** [UPI Fraud Detection Dataset](https://www.kaggle.com/code/udaykumardhokia/upi-fraud-detection/input)
+
+The dataset is not included in this repository. Please download the dataset from the Kaggle source and place it in the project directory as:
+
+`upi_fraud_dataset.csv`
 Target Variable
 
 fraud_risk — 0 = Legitimate, 1 = Fraud
