@@ -6,13 +6,13 @@ This project uses machine learning to classify UPI transactions as legitimate or
 
 Dataset
 
-The notebook uses upi_fraud_dataset.csv.
+The project uses the upi_fraud_dataset.csv dataset.
 
-Target variable:
+Target Variable
 
 fraud_risk — 0 = Legitimate, 1 = Fraud
 
-Features used include:
+Features Used
 
 Transaction hour
 
@@ -27,6 +27,8 @@ Transaction amount
 Transaction category
 
 State
+
+The dataset is used for training and evaluating classification models for UPI fraud detection.
 
 Project Workflow
 
